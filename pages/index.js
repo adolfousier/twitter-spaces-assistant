@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Mint Ventures AI Pitch Brand Risk Assessment Assistant Demo!" />
+        <Header title="Welcome to Mint Ventures AI Twitter Spaces Q&A Assistant Demo!" />
         <p className="description">
-          Describe a company/brand and this AI agent will rate the severity and describe the potential types of brand risks. Get started by clicking on the bot icon.
+          This AI Agent will help you prepare for Twitter Spaces or podcast interviews by drafting ten potential questions a host may ask on a topic. Get started by clicking on the bot icon.
         </p>
       </main>
 

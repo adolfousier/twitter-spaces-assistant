@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to Mint Ventures AI Twitter Spaces Q&A Assistant Demo!" />
         <p className="description">
-          This AI Agent will help you prepare for Twitter Spaces or podcast interviews by drafting ten potential questions a host may ask on a topic. Get started by clicking on the bot icon.
+          This AI Agent will help you prepare for a Twitter Spaces or interviews by drafting ten potential questions a host may ask on a topic. 
+          Get started by clicking on the bot icon.
         </p>
       </main>
 
